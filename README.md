@@ -10,3 +10,11 @@ RESTful APP using Django with following features -
   
  Test displaying all the features (screen recording) : https://youtu.be/0QO2dU_jUl8
  
+# How to Run -
+
+1. Install python 3.6+
+2. Install Django 2.1+
+3. check out the repo (git clone https://github.com/realpkya/todo.git)
+4. cd todo/
+5. python manage.py runserver
+6. Visit generated link
